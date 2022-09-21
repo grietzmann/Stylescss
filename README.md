@@ -1,2 +1,2 @@
 # flexboxcss
-repositorio para treinar css
+repositorio para treinar css flexbox e preprocessadores.
