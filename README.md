@@ -1,2 +1,2 @@
-repositorio para treinar css flexbox e preprocessadores.
+repositorio para treinar css.
 Além de técnicas para estilização.
